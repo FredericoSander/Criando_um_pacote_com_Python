@@ -1,0 +1,10 @@
+README.md
+setup.py
+data_analisys/__init__.py
+data_analisys.egg-info/PKG-INFO
+data_analisys.egg-info/SOURCES.txt
+data_analisys.egg-info/dependency_links.txt
+data_analisys.egg-info/requires.txt
+data_analisys.egg-info/top_level.txt
+data_analisys/util/__init__.py
+data_analisys/util/read.py

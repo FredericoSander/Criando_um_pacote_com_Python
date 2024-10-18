@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: data_analisys
+Version: 0.0.2
+Summary: Geração de estatísticas do arquivos CSV
+Home-page: https://github.com/FredericoSander/Criando_um_pacote_com_Python
+Author: Frederico S N Cota
+Author-email: sanderfn@hotmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+
 # data_analisys
 
 Description.
